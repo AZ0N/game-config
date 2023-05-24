@@ -17,4 +17,4 @@ My previous config is given in [autoexec.old.cfg](autoexec.old.cfg), however som
 ## Sensitivity
 DPI: **450**
 
-CS:GO Sens: **2.025**
+CS:GO Sens: **1.9**
